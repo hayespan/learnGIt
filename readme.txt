@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks all snapshots.
 commandline:
   git remote push origin1 master
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
